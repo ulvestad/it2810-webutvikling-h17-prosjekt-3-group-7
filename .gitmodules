@@ -2,3 +2,7 @@
 	path = web
 	url = https://github.com/IT2810/it2810-webutvikling-h17-prosjekt-3-group-7-web
 	branch = develop
+[submodule "native"]
+	path = native
+	url = https://github.com/IT2810/it2810-webutvikling-h17-prosjekt-3-group-7-native
+	branch = develop
