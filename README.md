@@ -43,4 +43,4 @@ Kjør programmet lokalt
 yarn start
 ```
 
-## /nateive 
+## /native 
