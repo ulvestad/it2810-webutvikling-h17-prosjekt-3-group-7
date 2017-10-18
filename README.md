@@ -2,7 +2,7 @@
 
 Prosjektet vårt er splittet i to ulike repoer. Du finner web-appen i [it2810-webutvikling-h17-prosjekt-3-group-7-web](https://github.com/IT2810/it2810-webutvikling-h17-prosjekt-3-group-7-web) og mobil-appen i [it2810-webutvikling-h17-prosjekt-3-group-7-native](https://github.com/IT2810/it2810-webutvikling-h17-prosjekt-3-group-7-native).
 
-Dette repositoriet er kun en samleside for å samle de to repositoriene. Du finner dem som [submoduler](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/) her, men for nyeste versjon anbefaler vi å benytte lenkne over.
+Dette repositoriet er kun en samleside for å samle de to repositoriene. Du finner dem som [submoduler](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/) her, men for nyeste versjon anbefaler vi å benytte lenkene over.
 
 For å klone repoet med submodulene må man bruke `--recursive`-valget til `git clone`. Man kan også laste ned submodulene i paralell med `-j2`.
 
