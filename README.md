@@ -23,3 +23,24 @@ git config alias.update '!git pull && git submodule update --init --recursive'
 ```
 
 Da kan du bare skrive `git update`, og så puller og oppdaterer den submoduelene. Hurra 🎉 Om man vil ha aliaset til å gjelde for alle git-repoer kan man legge til `--global` etter `git config`.
+
+
+# Simple setup på egen maskin  
+
+Klone hele prosjeketet 
+```
+git clone --recursive -j2 git@github.com:IT2810/it2810-webutvikling-h17-prosjekt-3-group-7.git
+```
+
+## /web 
+Endre sti til /web
+Installer alle nødvendige pakker og dependecies 
+```
+yarn install 
+```
+Kjør programmet lokalt 
+```
+yarn start
+```
+
+## /nateive 
